@@ -1,0 +1,38 @@
+body{
+    background-color: #164B60;
+}
+
+.container{
+    text-align: center;
+    margin: auto;
+    width: 80%;
+}
+
+.dice{
+    display: inline-block;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+    font-family: 'Lobster Two', cursive;
+    text-shadow: 4px 0 #4FC0D0;
+    font-size: 8rem;
+    color: #A2FF86;
+  }
+  
+
+p{
+    font-family: 'Caveat', cursive;
+    font-size: 3rem;
+    color: aquamarine;
+   
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
